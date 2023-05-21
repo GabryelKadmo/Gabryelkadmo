@@ -45,9 +45,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabryelKadmo}/count.svg" /></p> 
 <br></div>
   
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5280ce&height=120&section=footer"/>ﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ
-
 ### Entre em contato:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/278200179201671168) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/gabryelkadmo/) 
@@ -56,3 +53,4 @@
   ### Como é, amigo? Tá achando que tô passando necessidade?
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gabryelkadmo@gmail.com) 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5280ce&height=120&section=footer"/>ﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ
