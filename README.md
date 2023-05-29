@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5280ce&height=120&section=header"/>
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5280ce&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Gabryel+Kadmo.;Estudante+de+sistema+de+informação.;Foco+no+Back-end.;Seja+bem+vindo!)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5280ce&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Gabryel+Kadmo.;Estudante+de+sistema+de+informação.;Foco+no+Back-end.;Seja+bem+vindo!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabryelKadmo&show_icons=true&count_private=true&hide_border=true&title_color=5280ce&icon_color=5280ce&text_color=fff&bg_color=0d1117" alt="Gabryel Kadmo's stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelKadmo&layout=compact&hide_border=true&title_color=5280ce&text_color=fff&bg_color=0d1117" />
 </div>
 
- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabryelKadmo&theme=tokyo-night)
+<!--  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabryelKadmo&theme=tokyo-night) -->
 
 ### Principal:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
