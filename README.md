@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelKadmo&layout=compact&hide_border=true&title_color=5280ce&text_color=fff&bg_color=0d1117" />
 </div>
 
-<!--  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabryelKadmo&theme=tokyo-night) -->
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabryelKadmo&theme=tokyo-night)
 
 ### Principal:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
