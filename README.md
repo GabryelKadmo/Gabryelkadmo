@@ -41,8 +41,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
-<div align="right">
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=GabryelKadmo&show_icons=true&custom_title=GabryelKadmo's%20Github%20Stats&theme=tokyonight&hide_border=true">
+<div align="left">
 <img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=GabryelKadmo&theme=tokyonight&hide_border=true">
 </div>
 
