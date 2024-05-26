@@ -69,12 +69,9 @@
 
   ### Como é, amigo? Tá achando que tô passando necessidade?
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gabryelkadmo@gmail.com) 
-  
-  <div>
-<!--     <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199018200103"/> -->
-    <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199018200103&show_recent_game_bg=true"/>
-<!--     <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199018200103&show_in_game_bg=true"/> -->
-    
-  </div>
+
+  <p align="center">
+    <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199018200103"/>
+  </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5280ce&height=120&section=footer"/>ﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ
