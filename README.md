@@ -70,7 +70,7 @@
   ### Como é, amigo? Tá achando que tô passando necessidade?
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gabryelkadmo@gmail.com) 
 
-  <p align="center">
+  <p align="left">
     <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199018200103"/>
   </p>
 
