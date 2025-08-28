@@ -189,5 +189,5 @@ const gamerProfile = {
 <!-- Footer Message -->
 <div align="center">
   <sub><i>"Code with passion, design with purpose."</i></sub><br/>
-  <sub>⚡ Made with dark energy by Gabryel Kadmo ⚡</sub>
+  <sub> Made by Gabryel Kadmo </sub>
 </div>
