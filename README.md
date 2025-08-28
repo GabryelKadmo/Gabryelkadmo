@@ -1,16 +1,16 @@
 <!-- Dark Animated Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=150&section=header&text=&fontSize=0&animation=twinkling"/>
-</div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0x000000,0x1a1a1a,0x2d1b0e,0x3d2914,0x4a3425&height=150&section=header&text=&fontSize=0&animation=twinkling"/>
+</div> 
 
 <!-- Glitch Title Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&duration=3000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=800&height=100&lines=GABRYEL+KADMO;💀+FRONT-END+DEVELOPER+💀" alt="Glitch Title"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&duration=3000&pause=1000&color=E5E5E5&background=0D111700&center=true&vCenter=true&width=800&height=100&lines=GABRYEL+KADMO;💀+FRONT-END+DEVELOPER+💀" alt="Glitch Title"/>
 </h1>
 
 <!-- Cyberpunk Subtitle -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=FF0040&background=0D111700&center=true&vCenter=true&width=900&height=60&lines=〉+Front-end+Developer+〈;〉+Next.js+•+React+•+Angular+〈;〉+UI%2FUX+Dark+Specialist+〈;〉+Code+in+the+Shadows+〈" alt="Cyberpunk Subtitle"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=E5E5E5&background=0D111700&center=true&vCenter=true&width=900&height=60&lines=〉+Front-end+Developer+〈;〉+Next.js+•+React+•+Angular+〈;〉+UI%2FUX+Dark+Specialist+〈;〉+Code+in+the+Shadows+〈" alt="Cyberpunk Subtitle"/>
 </div>
 
 <!-- Dark Separator -->
@@ -70,16 +70,12 @@ const Kadmo = {
 </div> -->
 
 <!-- Terminal Window -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=1500&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=700&height=80&lines=$+whoami;gabryel.kadmo;$+cat+skills.txt;Bacharel+em+Sistemas+de+Informação;$+echo+'Always+evolving...';Always+evolving..." alt="Terminal Animation"/>
-</div>
+</div> -->
 
 <!-- Tech Stack Section -->
 <h2 align="center">⚔️ ARSENAL TECNOLÓGICO ⚔️</h2>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=1000&pause=500&color=FF6B35&background=0D111700&center=true&vCenter=true&width=800&height=40&lines=Loading+weapons...;Deploying+front-end+magic...;Initializing+UI+systems..." alt="Loading Tech"/>
-</div>
 
 <!-- Tech Categories Grid -->
 <table align="center">
@@ -120,21 +116,17 @@ const Kadmo = {
 
 <!-- GitHub Analytics Section -->
 <h2 align="center">📊 GITHUB ANALYTICS</h2>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=18&duration=2000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&width=600&height=40&lines=Analyzing+code+patterns...;Calculating+contributions...;Generating+metrics..." alt="Analytics Loading"/>
-</div>
-
-<!-- Stats Cards -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabryelKadmo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=00d9ff&title_color=ff6b35&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabryelKadmo&theme=dark&hide_border=true&background=0d1117&stroke=00d9ff&ring=ff6b35&fire=ff6b35&currStreakLabel=ffffff"/>
-</div>
+<br>
 
 <!-- Contribution Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabryelKadmo&theme=react-dark&bg_color=0d1117&hide_border=true&line=00d9ff&point=ff6b35&area=true&area_color=00d9ff" width="95%"/>
 </div>
+<!-- Stats Cards -->
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabryelKadmo&theme=dark&hide_border=true&background=0d1117&stroke=00d9ff&ring=ff6b35&fire=ff6b35&currStreakLabel=ffffff"/>
+</div>
+
 
 <!-- Achievements Section -->
 <!-- <h2 align="center">🏆 CONQUISTAS</h2>
@@ -191,7 +183,7 @@ const gamerProfile = {
 
 <!-- Animated Footer -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=150&section=footer&text=&fontSize=0&animation=twinkling"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0x000000,0x1a1a1a,0x2d1b0e,0x3d2914,0x4a3425&height=150&section=footer&text=&fontSize=0&animation=twinkling"/>
 </div>
 
 <!-- Footer Message -->
