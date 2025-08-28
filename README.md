@@ -123,9 +123,9 @@ const Kadmo = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabryelKadmo&theme=react-dark&bg_color=0d1117&hide_border=true&line=00d9ff&point=ff6b35&area=true&area_color=00d9ff" width="95%"/>
 </div>
 <!-- Stats Cards -->
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabryelKadmo&theme=dark&hide_border=true&background=0d1117&stroke=00d9ff&ring=ff6b35&fire=ff6b35&currStreakLabel=ffffff"/>
-</div>
+</div> -->
 
 
 <!-- Achievements Section -->
